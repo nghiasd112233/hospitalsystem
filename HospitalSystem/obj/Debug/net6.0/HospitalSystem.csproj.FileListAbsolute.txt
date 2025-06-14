@@ -1,0 +1,5 @@
+C:\đồ án cuối kì 1\HospitalSystem\obj\Debug\net6.0\HospitalSystem.csproj.AssemblyReference.cache
+C:\đồ án cuối kì 1\HospitalSystem\obj\Debug\net6.0\HospitalSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\đồ án cuối kì 1\HospitalSystem\obj\Debug\net6.0\HospitalSystem.AssemblyInfoInputs.cache
+C:\đồ án cuối kì 1\HospitalSystem\obj\Debug\net6.0\HospitalSystem.AssemblyInfo.cs
+C:\đồ án cuối kì 1\HospitalSystem\obj\Debug\net6.0\HospitalSystem.csproj.CoreCompileInputs.cache
