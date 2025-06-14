@@ -15,3 +15,4 @@ namespace HospitalSystem.Models
         public required string Status { get; set; } // Scheduled, Completed, Canceled
     }
 }
+

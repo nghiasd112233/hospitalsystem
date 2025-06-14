@@ -14,3 +14,4 @@ namespace HospitalSystem.Models
         public required string Email { get; set; } // ✅ Thêm Email để tương thích với menu
     }
 }
+
